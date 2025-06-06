@@ -7,4 +7,7 @@ function Home() {
   );
 }
 
+function test() {
+  console.log("identaçao errada");
+}
 export default Home;
